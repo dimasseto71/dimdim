@@ -1,3 +1,4 @@
 Buat akun github
 buat contoh file
-isi file
+hapus file
+isi file lagi
