@@ -1,1 +1,2 @@
 # dimdim
+Repositori untuk belajar
